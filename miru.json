@@ -1,0 +1,570 @@
+{
+  "1461363826544083048": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461363826544083048",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461364613567480012": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461364613567480012",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461365874517741618": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461365874517741618",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461366019913289728": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461366019913289728",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461366219532800051": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461366219532800051",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461366339750068384": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461366339750068384",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461366926692450527": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461366926692450527",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487400
+  },
+  "1461367161766285516": {
+    "miembros": [],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461367161766285516",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487460
+  },
+  "1461367316548812833": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461367316548812833",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768487460
+  },
+  "1461370589406040105": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      },
+      {
+        "id": "604470761805053983",
+        "tag": "skayy55"
+      },
+      {
+        "id": "323992793045401603",
+        "tag": "theselkor"
+      }
+    ],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1461370589406040105",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768496400
+  },
+  "1462838911779999917": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1462838911779999917",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1768839300
+  },
+  "1463572155072778424": {
+    "miembros": [
+      {
+        "id": "292743019109548042",
+        "tag": "nahuelkoski"
+      },
+      {
+        "id": "604470761805053983",
+        "tag": "skayy55"
+      }
+    ],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "292743019109548042",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "nahuelkoski",
+      "globalName": "Nahuelkoski",
+      "discriminator": "0",
+      "avatar": "d108bc63359fd966e6a85b17f41d4a04",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1489865774658,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "hexAccentColor": null,
+      "tag": "nahuelkoski",
+      "avatarURL": "https://cdn.discordapp.com/avatars/292743019109548042/d108bc63359fd966e6a85b17f41d4a04.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/292743019109548042/d108bc63359fd966e6a85b17f41d4a04.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1463572155072778424",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1769044500
+  },
+  "1475899205259366543": {
+    "miembros": [
+      {
+        "id": "271834956282462210",
+        "tag": "the_trader_xau"
+      }
+    ],
+    "motivo": "Mirumok Dekia",
+    "creador": {
+      "id": "271834956282462210",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "the_trader_xau",
+      "globalName": "Trader",
+      "discriminator": "0",
+      "avatar": "dc3415a3f8a085e878741ab59b4029f0",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1484880904027,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "hexAccentColor": null,
+      "tag": "the_trader_xau",
+      "avatarURL": "https://cdn.discordapp.com/avatars/271834956282462210/dc3415a3f8a085e878741ab59b4029f0.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/271834956282462210/dc3415a3f8a085e878741ab59b4029f0.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1475899205259366543",
+    "color": 9129438,
+    "max": 3,
+    "hora": 1771981200
+  }
+}

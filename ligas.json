@@ -1,0 +1,962 @@
+{
+  "1446589583784546487": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 0,
+    "diaNombre": "Domingo",
+    "nodeTs": 1765148400,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 4194368,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1446589583784546487",
+    "color": 16766720,
+    "max": 10
+  },
+  "1446590482636603554": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 1,
+    "diaNombre": "Lunes",
+    "nodeTs": 1765234800,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 4194368,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1446590482636603554",
+    "color": 16766720,
+    "max": 10
+  },
+  "1446590737490641008": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1765494000,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 4194368,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1446590737490641008",
+    "color": 16766720,
+    "max": 10
+  },
+  "1446592354570997912": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1765494000,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 4194368,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1446592354570997912",
+    "color": 16766720,
+    "max": 10
+  },
+  "1448680897044807681": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1765483200,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "05476539e6347a5ac078efb3c93c243f",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/05476539e6347a5ac078efb3c93c243f.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/05476539e6347a5ac078efb3c93c243f.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1448680897044807681",
+    "color": 16766720,
+    "max": 10
+  },
+  "1448771883641339964": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "336332113534124033",
+        "tag": "fabroan"
+      },
+      {
+        "id": "545416991608143872",
+        "tag": "brokenl0rd"
+      },
+      {
+        "id": "1162930435748282428",
+        "tag": "xleinad."
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1765488600,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1448771883641339964",
+    "color": 16766720,
+    "max": 10
+  },
+  "1449197019087372338": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "380885876496007179",
+        "tag": "nlcom"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "187385525827534848",
+        "tag": "xavit"
+      },
+      {
+        "id": "1162930435748282428",
+        "tag": "xleinad."
+      },
+      {
+        "id": "545416991608143872",
+        "tag": "brokenl0rd"
+      },
+      {
+        "id": "198592633818447872",
+        "tag": "fosterrz"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 5,
+    "diaNombre": "Viernes",
+    "nodeTs": 1765587600,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1449197019087372338",
+    "color": 16766720,
+    "max": 10
+  },
+  "1449222572054020230": {
+    "miembros": [
+      {
+        "id": "380885876496007179",
+        "tag": "nlcom"
+      },
+      {
+        "id": "187385525827534848",
+        "tag": "xavit"
+      },
+      {
+        "id": "1162930435748282428",
+        "tag": "xleinad."
+      },
+      {
+        "id": "545416991608143872",
+        "tag": "brokenl0rd"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "198592633818447872",
+        "tag": "fosterrz"
+      },
+      {
+        "id": "314180494365425666",
+        "tag": "victariogonzaa"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 5,
+    "diaNombre": "Viernes",
+    "nodeTs": 1765593000,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "05476539e6347a5ac078efb3c93c243f",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/05476539e6347a5ac078efb3c93c243f.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/05476539e6347a5ac078efb3c93c243f.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1449222572054020230",
+    "color": 16766720,
+    "max": 10
+  },
+  "1449922948071690354": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "187385525827534848",
+        "tag": "xavit"
+      },
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "336332113534124033",
+        "tag": "fabroan"
+      },
+      {
+        "id": "545416991608143872",
+        "tag": "brokenl0rd"
+      },
+      {
+        "id": "380885876496007179",
+        "tag": "nlcom"
+      },
+      {
+        "id": "338571745453670410",
+        "tag": "encantadorlykan"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 0,
+    "diaNombre": "Domingo",
+    "nodeTs": 1765762200,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1449922948071690354",
+    "color": 16766720,
+    "max": 10
+  },
+  "1465832829790326917": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 2,
+    "diaNombre": "Martes",
+    "nodeTs": 1769558400,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "7284871d58f4273db904d3f2768b3cc9",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/7284871d58f4273db904d3f2768b3cc9.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1465832829790326917",
+    "color": 16766720,
+    "max": 10
+  },
+  "1489648060123316447": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 1,
+    "diaNombre": "Lunes",
+    "nodeTs": 1775520000,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "d528e4751d0acb9dac112eeb06389086",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1489648060123316447",
+    "color": 16766720,
+    "max": 10
+  },
+  "1491561171294228491": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1775779200,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "d528e4751d0acb9dac112eeb06389086",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1491561171294228491",
+    "color": 16766720,
+    "max": 10
+  },
+  "1491898059896914050": {
+    "miembros": [
+      {
+        "id": "338571745453670410",
+        "tag": "encantadorlykan"
+      },
+      {
+        "id": "299263301391745028",
+        "tag": "mikadzu"
+      },
+      {
+        "id": "333710475839930368",
+        "tag": "lifemasacre"
+      },
+      {
+        "id": "425277698747924491",
+        "tag": "sharpiextrem"
+      },
+      {
+        "id": "545416991608143872",
+        "tag": "brokenl0rd"
+      },
+      {
+        "id": "198592633818447872",
+        "tag": "fosterrz"
+      },
+      {
+        "id": "1162930435748282428",
+        "tag": "xleinad."
+      },
+      {
+        "id": "336332113534124033",
+        "tag": "fabroan"
+      },
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1775772000,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "d528e4751d0acb9dac112eeb06389086",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1491898059896914050",
+    "color": 16766720,
+    "max": 10
+  },
+  "1492622576982298807": {
+    "miembros": [
+      {
+        "id": "292743019109548042",
+        "tag": "nahuelkoski"
+      },
+      {
+        "id": "333710475839930368",
+        "tag": "lifemasacre"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 0,
+    "diaNombre": "Domingo",
+    "nodeTs": 1776027600,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "d528e4751d0acb9dac112eeb06389086",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1492622576982298807",
+    "color": 16766720,
+    "max": 10
+  },
+  "1493410241856016576": {
+    "miembros": [
+      {
+        "id": "292743019109548042",
+        "tag": "nahuelkoski"
+      },
+      {
+        "id": "299263301391745028",
+        "tag": "mikadzu"
+      },
+      {
+        "id": "187385525827534848",
+        "tag": "xavit"
+      },
+      {
+        "id": "323992793045401603",
+        "tag": "theselkor"
+      },
+      {
+        "id": "425277698747924491",
+        "tag": "sharpiextrem"
+      },
+      {
+        "id": "338571745453670410",
+        "tag": "encantadorlykan"
+      },
+      {
+        "id": "233649047490002944",
+        "tag": "albitres"
+      },
+      {
+        "id": "333710475839930368",
+        "tag": "lifemasacre"
+      },
+      {
+        "id": "336332113534124033",
+        "tag": "fabroan"
+      },
+      {
+        "id": "545416991608143872",
+        "tag": "brokenl0rd"
+      }
+    ],
+    "motivo": "Liga de Gremios",
+    "dia": 1,
+    "diaNombre": "Lunes",
+    "nodeTs": 1776128400,
+    "creador": {
+      "id": "292743019109548042",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "nahuelkoski",
+      "globalName": "Nahuelkoski",
+      "discriminator": "0",
+      "avatar": "d108bc63359fd966e6a85b17f41d4a04",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1489865774658,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "hexAccentColor": null,
+      "tag": "nahuelkoski",
+      "avatarURL": "https://cdn.discordapp.com/avatars/292743019109548042/d108bc63359fd966e6a85b17f41d4a04.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/292743019109548042/d108bc63359fd966e6a85b17f41d4a04.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1493410241856016576",
+    "color": 16766720,
+    "max": 10
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "global": {
+    "hora": "22:00",
+    "comentario": "¡Prepárate para los bosses!"
+  },
+  "639904843888197672:775500584304246784": {
+    "hora": "22:00",
+    "comentario": "¡Prepárate para los bosses!",
+    "rotacion": "Khan - CTG Ferrid - Boss - Mudster - Boss",
+    "server": "Mediah2"
+  },
+  "639904843888197672": {
+    "hora": "22:00",
+    "comentario": "¡Prepárate para los bosses!",
+    "rotacion": "Khan - CTG Ferrid - Moghulis - Mudster - Org",
+    "server": "Mediah2",
+    "roles": "1458831692067373146,1458831819473551412"
+  },
+  "1130242804556238973": {
+    "hora": "21:30",
+    "comentario": "¡VAYAN CON EL MAIN A LOS BOSSES DE TIERRA! Alter para Khan si quieren y hacer rotación de balas negras",
+    "rotacion": "CTG FERRID > MOGULIS > MUDSTER > ORG > KHAN",
+    "server": "CALPHEON 2",
+    "roles": "1130367540514799697,1131072163353468930,1241129642182574190,1241126838701658173,1130244220461006888,1130276323105984602"
+  },
+  "1415028934801752086": {
+    "hora": "21:15",
+    "comentario": "¡VAYAN CON EL MAIN A LOS BOSSES DE TIERRA! Alter para Khan si quieren y hacer rotación de balas negras",
+    "rotacion": "Khan > CTG Ferrid > Moghulis > Mudster > Org",
+    "server": "MEDIAH2",
+    "roles": "1415032127933907045,1415042758594265249"
+  },
+  "1301664246681309224": {
+    "hora": "18:00",
+    "comentario": "¡Prepárate para los bosses! Recuerden ir con su main :3",
+    "rotacion": "Org - Mudster - Moghulis - Ferrid - CTG - Khan (si hay suficiente gente)",
+    "server": "Serendia 2",
+    "roles": "000"
+  },
+  "696136113534009386": {
+    "hora": "16:30",
+    "comentario": "Vengan con los Mains Ratas",
+    "rotacion": "ʚ♡ɞOʀɢ → Mᴜᴅsᴛᴇʀ → Mᴏɢʜᴜʟɪs → Fᴇʀʀɪᴅ → CᴛG ᴀ Kʜᴀɴʚ♡ɞ",
+    "server": "Serendia 2",
+    "roles": "739648345672384513"
+  }
+}
