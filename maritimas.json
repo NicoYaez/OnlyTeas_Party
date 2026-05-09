@@ -15141,7 +15141,8 @@
       },
       {
         "id": "625340419215196160",
-        "tag": "dj_xtremo"
+        "tag": "dj_xtremo",
+        "barco": "propio"
       },
       {
         "id": "414443425434304523",
@@ -15151,6 +15152,11 @@
       {
         "id": "246557410154643456",
         "tag": "misspou",
+        "barco": "propio"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
         "barco": "propio"
       }
     ],
@@ -15198,5 +15204,1462 @@
     "maxReservaCanonero": 5,
     "maxReservaBarco": 5,
     "maxPropio": 12
+  },
+  "1497065272346153111": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "246557410154643456",
+        "tag": "misspou",
+        "barco": "propio"
+      },
+      {
+        "id": "293216575287328769",
+        "tag": "shadowprube",
+        "barco": "propio"
+      },
+      {
+        "id": "511381495936581634",
+        "tag": "_redog",
+        "barco": "galeon"
+      },
+      {
+        "id": "367514103520034818",
+        "tag": "kishiky",
+        "barco": "propio"
+      },
+      {
+        "id": "1438993355991417033",
+        "tag": "xufen_05194",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "277880517553029130",
+        "tag": "fwer",
+        "barco": "galeon"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "galeon"
+      },
+      {
+        "id": "186334124427051009",
+        "tag": ".rhaizo",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "625340419215196160",
+        "tag": "dj_xtremo",
+        "barco": "propio"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "galeon"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "330518240516112387",
+        "tag": "byob182",
+        "barco": "galeon"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      },
+      {
+        "id": "1452461808236367872",
+        "tag": "nightrex31_49270",
+        "barco": "galeon"
+      },
+      {
+        "id": "258512971460771840",
+        "tag": "robertvc",
+        "barco": "galeon"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 5,
+    "diaNombre": "Viernes",
+    "nodeTs": 1777075200,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1497065272346153111",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1497779245672300756": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "246557410154643456",
+        "tag": "misspou",
+        "barco": "galeon"
+      },
+      {
+        "id": "293216575287328769",
+        "tag": "shadowprube",
+        "barco": "propio"
+      },
+      {
+        "id": "277880517553029130",
+        "tag": "fwer",
+        "barco": "galeon"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      },
+      {
+        "id": "1438993355991417033",
+        "tag": "xufen_05194",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "625340419215196160",
+        "tag": "dj_xtremo",
+        "barco": "propio"
+      },
+      {
+        "id": "330518240516112387",
+        "tag": "byob182",
+        "barco": "galeon"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "1452461808236367872",
+        "tag": "nightrex31_49270",
+        "barco": "galeon"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "galeon"
+      },
+      {
+        "id": "323601606174310402",
+        "tag": "night.ride",
+        "barco": "galeon"
+      },
+      {
+        "id": "252110419710312449",
+        "tag": "feliex13",
+        "barco": "propio"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 0,
+    "diaNombre": "Domingo",
+    "nodeTs": 1777248000,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1497779245672300756",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1498151443851644938": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "293216575287328769",
+        "tag": "shadowprube",
+        "barco": "propio"
+      },
+      {
+        "id": "246557410154643456",
+        "tag": "misspou",
+        "barco": "galeon"
+      },
+      {
+        "id": "1438993355991417033",
+        "tag": "xufen_05194",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "625340419215196160",
+        "tag": "dj_xtremo",
+        "barco": "propio"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "propio"
+      },
+      {
+        "id": "330518240516112387",
+        "tag": "byob182",
+        "barco": "galeon"
+      },
+      {
+        "id": "277880517553029130",
+        "tag": "fwer",
+        "barco": "galeon"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "galeon"
+      },
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "314180494365425666",
+        "tag": "victariogonzaa",
+        "barco": "propio"
+      },
+      {
+        "id": "304070018172321802",
+        "tag": "doppelstern",
+        "barco": "propio"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "367514103520034818",
+        "tag": "kishiky",
+        "barco": "propio"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "252110419710312449",
+        "tag": "feliex13",
+        "barco": "galeon"
+      },
+      {
+        "id": "1452461808236367872",
+        "tag": "nightrex31_49270",
+        "barco": "galeon"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 1,
+    "diaNombre": "Lunes",
+    "nodeTs": 1777334400,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1498151443851644938",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1498506425146806402": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "293216575287328769",
+        "tag": "shadowprube",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "314180494365425666",
+        "tag": "victariogonzaa",
+        "barco": "propio"
+      },
+      {
+        "id": "246557410154643456",
+        "tag": "misspou",
+        "barco": "propio"
+      },
+      {
+        "id": "367514103520034818",
+        "tag": "kishiky",
+        "barco": "propio"
+      },
+      {
+        "id": "553459613060694017",
+        "tag": "notcoko",
+        "barco": "propio"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "propio"
+      },
+      {
+        "id": "625340419215196160",
+        "tag": "dj_xtremo",
+        "barco": "propio"
+      },
+      {
+        "id": "304070018172321802",
+        "tag": "doppelstern",
+        "barco": "propio"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "galeon"
+      },
+      {
+        "id": "330518240516112387",
+        "tag": "byob182",
+        "barco": "galeon"
+      },
+      {
+        "id": "1438993355991417033",
+        "tag": "xufen_05194",
+        "barco": "galeon"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "galeon"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "1452461808236367872",
+        "tag": "nightrex31_49270",
+        "barco": "galeon"
+      },
+      {
+        "id": "449977071708667905",
+        "tag": "skyblue22",
+        "barco": "galeon"
+      },
+      {
+        "id": "207295393132707840",
+        "tag": "coronelpirata",
+        "barco": "propio"
+      },
+      {
+        "id": "277880517553029130",
+        "tag": "fwer",
+        "barco": "propio"
+      },
+      {
+        "id": "323601606174310402",
+        "tag": "night.ride",
+        "barco": "galeon"
+      },
+      {
+        "id": "252110419710312449",
+        "tag": "feliex13",
+        "barco": "propio"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 2,
+    "diaNombre": "Martes",
+    "nodeTs": 1777420800,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1498506425146806402",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1498876246682238986": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12"
+      },
+      {
+        "id": "293216575287328769",
+        "tag": "shadowprube",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "277880517553029130",
+        "tag": "fwer",
+        "barco": "galeon"
+      },
+      {
+        "id": "246557410154643456",
+        "tag": "misspou",
+        "barco": "galeon"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "galeon"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "625340419215196160",
+        "tag": "dj_xtremo",
+        "barco": "propio"
+      },
+      {
+        "id": "252110419710312449",
+        "tag": "feliex13",
+        "barco": "galeon"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "246090583737630721",
+        "tag": "blackviru",
+        "barco": "propio"
+      },
+      {
+        "id": "1438993355991417033",
+        "tag": "xufen_05194",
+        "barco": "galeon"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus"
+      },
+      {
+        "id": "449977071708667905",
+        "tag": "skyblue22"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 3,
+    "diaNombre": "Miercoles",
+    "nodeTs": 1777507200,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1498876246682238986",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1499266447703146497": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "246557410154643456",
+        "tag": "misspou",
+        "barco": "propio"
+      },
+      {
+        "id": "277880517553029130",
+        "tag": "fwer",
+        "barco": "galeon"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      },
+      {
+        "id": "293216575287328769",
+        "tag": "shadowprube",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12"
+      },
+      {
+        "id": "314180494365425666",
+        "tag": "victariogonzaa",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "625340419215196160",
+        "tag": "dj_xtremo"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "367514103520034818",
+        "tag": "kishiky",
+        "barco": "propio"
+      },
+      {
+        "id": "449977071708667905",
+        "tag": "skyblue22",
+        "barco": "galeon"
+      },
+      {
+        "id": "330518240516112387",
+        "tag": "byob182",
+        "barco": "galeon"
+      },
+      {
+        "id": "1452461808236367872",
+        "tag": "nightrex31_49270",
+        "barco": "galeon"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "galeon"
+      },
+      {
+        "id": "1438993355991417033",
+        "tag": "xufen_05194",
+        "barco": "galeon"
+      },
+      {
+        "id": "323601606174310402",
+        "tag": "night.ride"
+      },
+      {
+        "id": "207295393132707840",
+        "tag": "coronelpirata",
+        "barco": "propio"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1777593600,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1499266447703146497",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1499592444130365584": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "246090583737630721",
+        "tag": "blackviru",
+        "barco": "propio"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "galeon"
+      },
+      {
+        "id": "186334124427051009",
+        "tag": ".rhaizo",
+        "barco": "galeon"
+      },
+      {
+        "id": "258512971460771840",
+        "tag": "robertvc",
+        "barco": "galeon"
+      },
+      {
+        "id": "314180494365425666",
+        "tag": "victariogonzaa",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "galeon"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "galeon"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 5,
+    "diaNombre": "Viernes",
+    "nodeTs": 1777680000,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1499592444130365584",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1500567307666325516": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "capitan"
+      },
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 0,
+    "diaNombre": "Domingo",
+    "nodeTs": 1777852800,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1500567307666325516",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1501411858744213514": {
+    "miembros": [
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "837817925128814642",
+        "tag": "aldi_g",
+        "barco": "galeon"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12",
+        "barco": "reserva_barco"
+      },
+      {
+        "id": "1183202356356198433",
+        "tag": "necrosis_57878",
+        "barco": "galeon"
+      },
+      {
+        "id": "100704397100605440",
+        "tag": "joseph140491",
+        "barco": "galeon"
+      },
+      {
+        "id": "362986451069173760",
+        "tag": "kuroro0126",
+        "barco": "capitan"
+      },
+      {
+        "id": "818963670734077982",
+        "tag": "kyfor.",
+        "barco": "galeon"
+      },
+      {
+        "id": "167409665456472065",
+        "tag": "nachin8433",
+        "barco": "galeon"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "propio"
+      },
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull",
+        "barco": "propio"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "propio"
+      },
+      {
+        "id": "272886181803458562",
+        "tag": "anfeleyl_vanquirel",
+        "barco": "propio"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "628750577295294494",
+        "tag": "tousenth",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "856661560067489842",
+        "tag": ".razyel",
+        "barco": "galeon"
+      },
+      {
+        "id": "230490170594426881",
+        "tag": "_killou",
+        "barco": "galeon"
+      },
+      {
+        "id": "594326238886100993",
+        "tag": "jeno1959",
+        "barco": "reserva_canonero"
+      },
+      {
+        "id": "358447319777017856",
+        "tag": "dysturber",
+        "barco": "propio"
+      },
+      {
+        "id": "495475541080801280",
+        "tag": "cranius90",
+        "barco": "propio"
+      },
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "propio"
+      },
+      {
+        "id": "359518796597297153",
+        "tag": "darckdominus"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 3,
+    "diaNombre": "Miercoles",
+    "nodeTs": 1778112000,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1501411858744213514",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 7,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 12
+  },
+  "1501727355926872264": {
+    "miembros": [],
+    "motivo": "Node Maritima",
+    "dia": 3,
+    "diaNombre": "Miercoles",
+    "nodeTs": 1778112000,
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "d528e4751d0acb9dac112eeb06389086",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1501727355926872264",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 9,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 10
+  },
+  "1501769738978721917": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "propio"
+      },
+      {
+        "id": "359518796597297153",
+        "tag": "darckdominus",
+        "barco": "galeon"
+      },
+      {
+        "id": "362986451069173760",
+        "tag": "kuroro0126",
+        "barco": "capitan"
+      },
+      {
+        "id": "100704397100605440",
+        "tag": "joseph140491",
+        "barco": "galeon"
+      },
+      {
+        "id": "1183202356356198433",
+        "tag": "necrosis_57878",
+        "barco": "galeon"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12",
+        "barco": "propio"
+      },
+      {
+        "id": "272886181803458562",
+        "tag": "anfeleyl_vanquirel",
+        "barco": "propio"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "230490170594426881",
+        "tag": "_killou",
+        "barco": "galeon"
+      },
+      {
+        "id": "457757625862586388",
+        "tag": "roustand",
+        "barco": "propio"
+      },
+      {
+        "id": "167409665456472065",
+        "tag": "nachin8433",
+        "barco": "galeon"
+      },
+      {
+        "id": "495475541080801280",
+        "tag": "cranius90",
+        "barco": "propio"
+      },
+      {
+        "id": "594326238886100993",
+        "tag": "jeno1959",
+        "barco": "galeon"
+      },
+      {
+        "id": "246090583737630721",
+        "tag": "blackviru",
+        "barco": "propio"
+      },
+      {
+        "id": "358447319777017856",
+        "tag": "dysturber",
+        "barco": "propio"
+      },
+      {
+        "id": "814103238525452328",
+        "tag": "will2x1651",
+        "barco": "galeon"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "propio"
+      },
+      {
+        "id": "207295393132707840",
+        "tag": "coronelpirata",
+        "barco": "reserva_barco"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 4,
+    "diaNombre": "Jueves",
+    "nodeTs": 1778198400,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1501769738978721917",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 9,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 10
+  },
+  "1502120748708401313": {
+    "miembros": [
+      {
+        "id": "362986451069173760",
+        "tag": "kuroro0126",
+        "barco": "capitan"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus",
+        "barco": "propio"
+      },
+      {
+        "id": "1183202356356198433",
+        "tag": "necrosis_57878",
+        "barco": "galeon"
+      },
+      {
+        "id": "180065193236234240",
+        "tag": "bass_zero",
+        "barco": "propio"
+      },
+      {
+        "id": "484507431687159809",
+        "tag": "leomaru12",
+        "barco": "propio"
+      },
+      {
+        "id": "814103238525452328",
+        "tag": "will2x1651",
+        "barco": "galeon"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin",
+        "barco": "propio"
+      },
+      {
+        "id": "167409665456472065",
+        "tag": "nachin8433",
+        "barco": "galeon"
+      },
+      {
+        "id": "100704397100605440",
+        "tag": "joseph140491",
+        "barco": "galeon"
+      },
+      {
+        "id": "230490170594426881",
+        "tag": "_killou",
+        "barco": "galeon"
+      },
+      {
+        "id": "594326238886100993",
+        "tag": "jeno1959",
+        "barco": "galeon"
+      },
+      {
+        "id": "414443425434304523",
+        "tag": "rhodward",
+        "barco": "propio"
+      },
+      {
+        "id": "272886181803458562",
+        "tag": "anfeleyl_vanquirel",
+        "barco": "propio"
+      },
+      {
+        "id": "197903759777595392",
+        "tag": "lucho2m",
+        "barco": "galeon"
+      },
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074",
+        "barco": "propio"
+      },
+      {
+        "id": "495475541080801280",
+        "tag": "cranius90",
+        "barco": "propio"
+      },
+      {
+        "id": "358447319777017856",
+        "tag": "dysturber",
+        "barco": "propio"
+      },
+      {
+        "id": "818963670734077982",
+        "tag": "kyfor.",
+        "barco": "galeon"
+      },
+      {
+        "id": "359518796597297153",
+        "tag": "darckdominus",
+        "barco": "galeon"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv",
+        "barco": "propio"
+      },
+      {
+        "id": "1283136124256129104",
+        "tag": "eluniversin_49202"
+      }
+    ],
+    "motivo": "Node Maritima",
+    "dia": 5,
+    "diaNombre": "Viernes",
+    "nodeTs": 1778284800,
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "admins": [
+      "527326979209560074",
+      "291312809642295298"
+    ],
+    "mensajeId": "1502120748708401313",
+    "color": 3447003,
+    "max": 25,
+    "maxGaleon": 9,
+    "maxReservaCanonero": 5,
+    "maxReservaBarco": 5,
+    "maxPropio": 10
   }
 }

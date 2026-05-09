@@ -234,5 +234,107 @@
     "color": 9109504,
     "max": 3,
     "hora": 1776997800
+  },
+  "1497312508694892604": {
+    "miembros": [
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      }
+    ],
+    "motivo": "Altar de Sangre",
+    "creador": {
+      "id": "424384452903436301",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "llskaikrull",
+      "globalName": "IISkaikruII (Eskaikru)",
+      "discriminator": "0",
+      "avatar": "762973d69dc8a7edad5a05b6a63e1ee4",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1349849614257225760",
+          "asset": "nameplates/nameplates/vengeance/",
+          "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1521251538254,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "hexAccentColor": null,
+      "tag": "llskaikrull",
+      "avatarURL": "https://cdn.discordapp.com/avatars/424384452903436301/762973d69dc8a7edad5a05b6a63e1ee4.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/424384452903436301/762973d69dc8a7edad5a05b6a63e1ee4.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1497312508694892604",
+    "color": 9109504,
+    "max": 3,
+    "hora": 1777147200
+  },
+  "1502638505455517798": {
+    "miembros": [
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus"
+      },
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull"
+      },
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      }
+    ],
+    "motivo": "Altar de Sangre",
+    "creador": {
+      "id": "545416991608143872",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "brokenl0rd",
+      "globalName": "Brokenlord",
+      "discriminator": "0",
+      "avatar": "bd458f46eb055bd8834ecff7181d3aec",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1550107944157,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "hexAccentColor": null,
+      "tag": "brokenl0rd",
+      "avatarURL": "https://cdn.discordapp.com/avatars/545416991608143872/bd458f46eb055bd8834ecff7181d3aec.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/545416991608143872/bd458f46eb055bd8834ecff7181d3aec.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "mensajeId": "1502638505455517798",
+    "color": 9109504,
+    "max": 3,
+    "hora": 1778364000
   }
 }

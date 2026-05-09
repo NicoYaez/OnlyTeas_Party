@@ -11467,10 +11467,6 @@
   "1496746544412491926": {
     "miembros": [
       {
-        "id": "333710475839930368",
-        "tag": "lifemasacre"
-      },
-      {
         "id": "292743019109548042",
         "tag": "nahuelkoski"
       },
@@ -11485,6 +11481,10 @@
       {
         "id": "338571745453670410",
         "tag": "encantadorlykan"
+      },
+      {
+        "id": "333710475839930368",
+        "tag": "lifemasacre"
       }
     ],
     "motivo": "BOSES DEL ALBA DESAFIANTE",
@@ -11634,5 +11634,709 @@
     "color": 9129438,
     "max": 5,
     "hora": 1776993300
+  },
+  "1497879225389154314": {
+    "miembros": [
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      },
+      {
+        "id": "299263301391745028",
+        "tag": "mikadzu"
+      },
+      {
+        "id": "323992793045401603",
+        "tag": "theselkor"
+      },
+      {
+        "id": "342501732426711040",
+        "tag": "1red_flame"
+      },
+      {
+        "id": "333710475839930368",
+        "tag": "lifemasacre"
+      }
+    ],
+    "motivo": "BOSES DEL ALBA DESADIANTE!!",
+    "descripcion": "Mediah 2, Luego de la node",
+    "creador": {
+      "id": "291312809642295298",
+      "bot": false,
+      "system": false,
+      "flags": 64,
+      "username": "nicoyaez",
+      "globalName": "PaltaMan",
+      "discriminator": "0",
+      "avatar": "d528e4751d0acb9dac112eeb06389086",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "skuId": "1357589632581374042"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1377377712078848180",
+          "asset": "nameplates/nameplates_v2/glitch/",
+          "label": "COLLECTIBLES_NAMEPLATES_V2_GLITCH_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": null,
+      "createdTimestamp": 1489524786149,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "nicoyaez",
+      "avatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/291312809642295298/d528e4751d0acb9dac112eeb06389086.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1497879225389154314",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777252500
+  },
+  "1498371441509269594": {
+    "miembros": [
+      {
+        "id": "358036184842108930",
+        "tag": "kiugan"
+      }
+    ],
+    "motivo": "BOSES DEL ALBA DESAFIANTE!",
+    "descripcion": "Mediah 2, Luego de la node",
+    "creador": {
+      "id": "358036184842108930",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "kiugan",
+      "globalName": "Kiugan",
+      "discriminator": "0",
+      "avatar": null,
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1505432878457,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "hexAccentColor": null,
+      "tag": "kiugan",
+      "avatarURL": null,
+      "displayAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1498371441509269594",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777338900
+  },
+  "1498373241973248160": {
+    "miembros": [
+      {
+        "id": "342501732426711040",
+        "tag": "1red_flame"
+      }
+    ],
+    "motivo": "Dungeon!",
+    "descripcion": "Despues de Node!",
+    "creador": {
+      "id": "342501732426711040",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "1red_flame",
+      "globalName": "Red_Flame",
+      "discriminator": "0",
+      "avatar": "31739dd19c93084a5e8436d133be4237",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1501729176385,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "hexAccentColor": null,
+      "tag": "1red_flame",
+      "avatarURL": "https://cdn.discordapp.com/avatars/342501732426711040/31739dd19c93084a5e8436d133be4237.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/342501732426711040/31739dd19c93084a5e8436d133be4237.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1498373241973248160",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777343400
+  },
+  "1498459866996670625": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "248283234180399104",
+        "tag": "reguloide"
+      },
+      {
+        "id": "304070018172321802",
+        "tag": "doppelstern"
+      },
+      {
+        "id": "663756095927484446",
+        "tag": "lumigeco"
+      }
+    ],
+    "motivo": "BOSSES DEL ALBA 21:15 CH 22:15 ARG",
+    "descripcion": "BOSSES DEL ALBA 21:15 CH 22:15 ARG\nCALPHEON 2",
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "mensajeId": "1498459866996670625",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777338900
+  },
+  "1498497870951616594": {
+    "miembros": [],
+    "motivo": "ATORAXION",
+    "descripcion": "Hay que coordinar para hacer",
+    "creador": {
+      "id": "684557792748634172",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "latineagle",
+      "globalName": "Eizen",
+      "discriminator": "0",
+      "avatar": "0c2349dc9d53fe73d61f26cb881194e0",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1583281696260,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "hexAccentColor": null,
+      "tag": "latineagle",
+      "avatarURL": "https://cdn.discordapp.com/avatars/684557792748634172/0c2349dc9d53fe73d61f26cb881194e0.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/684557792748634172/0c2349dc9d53fe73d61f26cb881194e0.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1498497870951616594",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777340100
+  },
+  "1498812679458918422": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin"
+      }
+    ],
+    "motivo": "Dungeon",
+    "descripcion": "Dungeon Calp2",
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "mensajeId": "1498812679458918422",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777425300
+  },
+  "1499767036530917488": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "246090583737630721",
+        "tag": "blackviru"
+      },
+      {
+        "id": "247539220980170753",
+        "tag": "soru_vt"
+      }
+    ],
+    "motivo": "BOSSES DEL ALBA 19:00 CH 20:00 ARG",
+    "descripcion": "BOSSES DEL ALBA 19:00 CH 20:00 ARG\nCALPHEON 2",
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "mensajeId": "1499767036530917488",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777676400
+  },
+  "1499886549804777612": {
+    "miembros": [
+      {
+        "id": "959500083609600090",
+        "tag": "gabrielperez2650"
+      },
+      {
+        "id": "356620038171525120",
+        "tag": "nothands"
+      },
+      {
+        "id": "291312809642295298",
+        "tag": "nicoyaez"
+      },
+      {
+        "id": "266683105128087555",
+        "tag": "burk4"
+      }
+    ],
+    "motivo": "ATORAXION",
+    "descripcion": "Atoraxion",
+    "creador": {
+      "id": "959500083609600090",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "gabrielperez2650",
+      "globalName": "Ragnaroks",
+      "discriminator": "0",
+      "avatar": null,
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": null,
+        "identityEnabled": false,
+        "tag": null,
+        "badge": null
+      },
+      "createdTimestamp": 1648833046582,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "hexAccentColor": null,
+      "tag": "gabrielperez2650",
+      "avatarURL": null,
+      "displayAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1499886549804777612",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777683600
+  },
+  "1500042450973233273": {
+    "miembros": [
+      {
+        "id": "266683105128087555",
+        "tag": "burk4"
+      }
+    ],
+    "motivo": "Bosses del alba Desafiantes",
+    "descripcion": "BOSSES DEL ALBA DESAFIANTES\nTraer alter por si hay que repetir",
+    "creador": {
+      "id": "266683105128087555",
+      "bot": false,
+      "system": false,
+      "flags": 256,
+      "username": "burk4",
+      "globalName": "BurkA",
+      "discriminator": "0",
+      "avatar": "a_f8acae7b389181cdcce33d2f4a39d3d3",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": {
+        "asset": "a_be6c77adcaa4aa3ed641f6c78de0dbb8",
+        "skuId": "1432427447093039205"
+      },
+      "collectibles": {
+        "nameplate": {
+          "skuId": "1409983105577783410",
+          "asset": "nameplates/special_events_2/nitro_rocketfuel_nameplate/",
+          "label": "COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "primaryGuild": {
+        "identityGuildId": "916861643856674826",
+        "identityEnabled": true,
+        "tag": "VLLC",
+        "badge": "78b1ebb6b97565376cb5345a0631e362"
+      },
+      "createdTimestamp": 1483652606995,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "hexAccentColor": null,
+      "tag": "burk4",
+      "avatarURL": "https://cdn.discordapp.com/avatars/266683105128087555/a_f8acae7b389181cdcce33d2f4a39d3d3.gif",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/266683105128087555/a_f8acae7b389181cdcce33d2f4a39d3d3.gif",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/916861643856674826/78b1ebb6b97565376cb5345a0631e362.webp"
+    },
+    "mensajeId": "1500042450973233273",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777761000
+  },
+  "1500956813288538246": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "423996415635619840",
+        "tag": "fm_franklin"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      }
+    ],
+    "motivo": "Bosses del Alba 21:15 Ch 22:15 Arg",
+    "descripcion": "Bosses del Alba 21:15 Ch 22:15 Arg\nCalpheon 2",
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "mensajeId": "1500956813288538246",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777943700
+  },
+  "1500957067492462683": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "152128501980332032",
+        "tag": "francizka"
+      },
+      {
+        "id": "247539220980170753",
+        "tag": "soru_vt"
+      },
+      {
+        "id": "380885876496007179",
+        "tag": "nlcom"
+      },
+      {
+        "id": "248283234180399104",
+        "tag": "reguloide"
+      }
+    ],
+    "motivo": "Bosses del Alba 21:45 Ch 22:45 Arg",
+    "descripcion": "Bosses del Alba 21:45 Ch 22:45 Arg\nCalpheon 2",
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "mensajeId": "1500957067492462683",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1777945500
+  },
+  "1500998423275634808": {
+    "miembros": [
+      {
+        "id": "271834956282462210",
+        "tag": "the_trader_xau"
+      }
+    ],
+    "motivo": "Bosses del alba hard",
+    "descripcion": "Linkiado\nen edania se tiran bufos  \nAP:360+\nDespués de node",
+    "creador": {
+      "id": "271834956282462210",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "the_trader_xau",
+      "globalName": "Trader",
+      "discriminator": "0",
+      "avatar": "dc3415a3f8a085e878741ab59b4029f0",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": null,
+      "createdTimestamp": 1484880904027,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "hexAccentColor": null,
+      "tag": "the_trader_xau",
+      "avatarURL": "https://cdn.discordapp.com/avatars/271834956282462210/dc3415a3f8a085e878741ab59b4029f0.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/271834956282462210/dc3415a3f8a085e878741ab59b4029f0.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": null
+    },
+    "mensajeId": "1500998423275634808",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1778031000
+  },
+  "1501348704148525116": {
+    "miembros": [
+      {
+        "id": "527326979209560074",
+        "tag": "pepe7074"
+      },
+      {
+        "id": "248636917040545793",
+        "tag": "cocacolaaaa"
+      },
+      {
+        "id": "653315023153922067",
+        "tag": "lenka_tv"
+      },
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus"
+      }
+    ],
+    "motivo": "Dungeon",
+    "descripcion": "Dungeon 21:15 CH Calp2",
+    "creador": {
+      "id": "527326979209560074",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "pepe7074",
+      "globalName": "Pepe",
+      "discriminator": "0",
+      "avatar": "e300609aae2f3821ace2b047eed05ee1",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "597170291021709327",
+        "identityEnabled": true,
+        "tag": "CIRI",
+        "badge": "b6f6582eb0301ce069e00b2a99323975"
+      },
+      "createdTimestamp": 1545794949105,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "hexAccentColor": null,
+      "tag": "pepe7074",
+      "avatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/527326979209560074/e300609aae2f3821ace2b047eed05ee1.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/597170291021709327/b6f6582eb0301ce069e00b2a99323975.webp"
+    },
+    "mensajeId": "1501348704148525116",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1778030100
+  },
+  "1502638002843680818": {
+    "miembros": [
+      {
+        "id": "1020819921044770936",
+        "tag": "el_aventus"
+      },
+      {
+        "id": "424384452903436301",
+        "tag": "llskaikrull"
+      }
+    ],
+    "motivo": "Dungeon",
+    "descripcion": "Calpeon 2",
+    "creador": {
+      "id": "545416991608143872",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "brokenl0rd",
+      "globalName": "Brokenlord",
+      "discriminator": "0",
+      "avatar": "bd458f46eb055bd8834ecff7181d3aec",
+      "banner": null,
+      "accentColor": null,
+      "avatarDecoration": null,
+      "avatarDecorationData": null,
+      "collectibles": null,
+      "primaryGuild": {
+        "identityGuildId": "974021064986361876",
+        "identityEnabled": true,
+        "tag": "BDSA",
+        "badge": "2f33e5bba9e6dacb417711d83324582d"
+      },
+      "createdTimestamp": 1550107944157,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "hexAccentColor": null,
+      "tag": "brokenl0rd",
+      "avatarURL": "https://cdn.discordapp.com/avatars/545416991608143872/bd458f46eb055bd8834ecff7181d3aec.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/545416991608143872/bd458f46eb055bd8834ecff7181d3aec.webp",
+      "bannerURL": null,
+      "guildTagBadgeURL": "https://cdn.discordapp.com/guild-tag-badges/974021064986361876/2f33e5bba9e6dacb417711d83324582d.webp"
+    },
+    "mensajeId": "1502638002843680818",
+    "color": 9129438,
+    "max": 5,
+    "hora": 1778367600
   }
 }

@@ -29,10 +29,10 @@ module.exports = {
 
         const tamano = 25;
 
-        const MAX_GALEON = 7;
+        const MAX_GALEON = 9;
         const MAX_RESERVA_CANONERO = 5;
         const MAX_RESERVA_BARCO = 5;
-        const MAX_PROPIO = 12;
+        const MAX_PROPIO = 10;
 
         const color = 0x3498db;
         const creador = interaction.user;

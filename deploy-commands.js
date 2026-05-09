@@ -43,6 +43,7 @@ const commands = [
         .setDescription('Código a publicar')
         .setRequired(true)
     ),
+
   // /liga
   new SlashCommandBuilder()
     .setName('liga')
